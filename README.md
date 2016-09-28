@@ -11,6 +11,7 @@ This is again some extra text here
 Hi there, some more text
 
 ## How to
+Please fork this repo
 
 ##Copyright
 
