@@ -6,7 +6,7 @@ This has some special text to be commited
 
 This is again some extra text here
 Adding a line for rebasing example,
-More changes for my feature branch
+Emergency fix
 
 ## Purpose 
 
