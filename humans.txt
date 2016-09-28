@@ -16,4 +16,4 @@ dlskag lka;j;g
     HTML5, CSS3
     jQuery, Modernizr
 
-hallo
+hallo, jij daar. kijk eens hier
