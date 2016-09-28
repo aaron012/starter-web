@@ -5,7 +5,8 @@ This has some special text to be commited
 ## Introduction
 
 This is again some extra text here
-Adding a line for rebasing example
+Adding a line for rebasing example,
+More changes for my feature branch
 
 ## Purpose 
 
