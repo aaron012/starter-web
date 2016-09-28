@@ -5,6 +5,7 @@ This has some special text to be commited
 ## Introduction
 
 This is again some extra text here
+Adding a line for rebasing example
 
 ## Purpose 
 
