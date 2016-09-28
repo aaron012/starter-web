@@ -17,4 +17,4 @@ Please fork this repo
 
 ##Copyright
 
-Notice here 
+Notice here. All rights reserved! 
